@@ -1,0 +1,14 @@
+{
+  "name": "monster_fish_app",
+  "version": "1.0.0",
+  "description": "A basic application for monster fish keepers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Filoingko",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
