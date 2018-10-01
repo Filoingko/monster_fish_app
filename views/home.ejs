@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <% include partials/head.ejs %>
+</head>
+
+<body>
+    <% include partials/header.ejs %>
+        <div id="hero-image">
+            <h1 id="hero-title">
+                <%= title %>
+            </h1>
+        </div>
+
+        <div id="posters-wrapper" class="content-padding clearfix">
+            <% for(var i=0; i < fishes.length; i++){ %>
+                <div class="poster">
+
+                    <a href="/fish/<%= fishes[i].episode_number %>">
+
+                    <img src="/images/<%= fishes[i].poster %> " class="img-responsive">
+
+                    <div class="poster-info-overlay">
+                        <h3><%=fishes[i].title%></h3>
+                        <h4>View More <i class="fa fa-arrow-right"></i></h4>
+                    </div>
+                    </a>
+                </div>
+                <% } %>
+        </div>
+
+        <% include partials/footer.ejs %>
+        <% include partials/scripts.ejs %>
+</body>
+
+</html>

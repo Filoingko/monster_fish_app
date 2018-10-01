@@ -1,21 +1,21 @@
 var express = require('express');
-
 var app = express();
+app.set('view engine', 'ejs');
+
 
 //route
+var routes = require('./routes');
 
+var path = require('path');
+app.use(express.static(path.join(__dirname, 'public')));
 //home
-app.get('/', function(req, res){
-    res.send('Response frome home');
-});
-
+app.get('/', routes.home);
 //Fishes
-app.get('/fish/:fish_no?', function(req, res){
-    var fish_no = req.params.fish_no;
-    res.send('This is fish no ' + fish_no); 
-});
+app.get('/fish/:fish_no?', routes.single_fish);
+//Not Found
+app.get('*', routes.pagenotfound);
 
-app.listen(3000 , function(){
+app.listen(process.env.PORT || 3000 , function(){
     console.log("App is running on port 3000");
 });
 //console.log("Hello there");

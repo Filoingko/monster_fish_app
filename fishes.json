@@ -1,0 +1,56 @@
+{
+  "fishes": [{
+    "title" : "Aquarium Monster Fish : Arapaima",
+    "episode_number" : "1",
+    "main_characters" : ["Qui-Gon Jinn", "Obi-Wan Kenobi", "Anakin Skywalker", "Padmé Amidala", "Jar Jar Binks", "Darth Maul"],
+    "description" : "This is the largest fish found strictly in fresh water. The arapaima is very unique among fish— it can breathe air! They have a very primitive lung. They can take up oxygen through their gills also but they typically live in oxygen-poor waterways and supplement with air breathing. Arapaima can reach lengths of more than 2 m (6 ft 7 in), in some exceptional cases even more than 2.5 m (8 ft 2 in) and over 100 kg (220 lb). The maximum recorded weight for the species is 200 kg (440 lb), while the longest recorded length was 4.52 m (15 ft).",
+    "poster" : "fish_poster_1.jpg",
+    "fish_image" : "fish_cover_6.jpg"
+  },
+
+  {
+    "title" : "Aquarium Monster Fish : Peacock Bass",
+    "episode_number" : "2",
+    "main_characters" : ["Obi-Wan Kenobi", "Anakin Skywalker", "Count Dooku", "Padmé Amidala", "Mace Windu", "Yoda", "Jango Fett", "Supreme Chancellor Palpatine"],
+    "description" : "Ten years after the 'Phantom Menace' threatened the planet Naboo, Padmé Amidala is now a Senator representing her homeworld. A faction of political separatists, led by Count Dooku, attempts to assassinate her. There are not enough Jedi to defend the Republic against the threat, so Chancellor Palpatine enlists the aid of Jango Fett, who promises that his army of clones will handle the situation. Meanwhile, Obi-Wan Kenobi continues to train the young Jedi Anakin Skywalker, who fears that the Jedi code will forbid his growing romance with Amidala.",
+    "poster" : "fish_poster_2.jpg",
+    "fish_image" : "star_wars_episode_2_hero.jpg"
+  },
+
+  {
+    "title" : "Aquarium Monster Fish : Oscar",
+    "episode_number" : "3",
+    "main_characters" : ["Obi-Wan Kenobi", "Anakin Skywalker", "Count Dooku", "Padmé Amidala", "Mace Windu", "Yoda", "C-3PO", "Supreme Chancellor Palpatine"],
+    "description" : "Oscars are a very popular fish in the freshwater world. They can often learn to recognize their owners and even show moods at times. These fish are very hardy and can survive even some of the worst conditions. However, this does not mean that they should be subjected to them. Oscars can regularly reach a size of 11 to 12 inches and some have been measured at over 15 inches in very large aquariums and in the wild. Most experienced aquarists will tell you that the bare minimum for an Oscar is a 55-gallon tank. Oscars are also very messy eaters and require extra filtration. They can also become very territorial if kept in too small of a tank. This will mean you can not keep anything else with them.",
+    "poster" : "fish_poster_3.jpg",
+    "fish_image" : "star_wars_episode_3_hero.jpg"
+  },
+
+  {
+    "title" : "Aquarium Monster Fish : Arowana",
+    "episode_number" : "4",
+    "main_characters" : ["Luke Skywalker", "Han Solo", "Princess Leia Organa", "Ben Kenobi", "Darth Vader", "C-3P0", "R2-D2", "Chewbacca"],
+    "description" : "Part IV in George Lucas' epic, Star Wars: A New Hope opens with a Rebel ship being boarded by the tyrannical Darth Vader. The plot then follows the life of a simple farm boy, Luke Skywalker, as he and his newly met allies (Han Solo, Chewbacca, Obi-Wan Kenobi, C-3PO, R2-D2) attempt to rescue a Rebel leader, Princess Leia, from the clutches of the Empire. The conclusion is culminated as the Rebels, including Skywalker and flying ace Wedge Antilles make an attack on the Empire's most powerful and ominous weapon, the Death Star.",
+    "poster" : "fish_poster_4.jpg",
+    "fish_image" : "star_wars_episode_4_hero.jpg"
+  },
+
+  {
+    "title" : "Aquarium Monster Fish : Red Tail Catfish",
+    "episode_number" : "5",
+    "main_characters" : ["Luke Skywalker", "Han Solo", "Princess Leia Organa", "Darth Vader", "C-3P0", "R2-D2", "Chewbacca", "Lando Calrissian", "Boba Fett"],
+    "description" : "The redtail catfish (Phractocephalus hemioliopterus) got its name due to its bright orange tail fin. This is a good looking, but very large and predatory catfish, that yet is being kept in tanks. It can be seen on sale quite often as well. The redtail catfish grows very large even in small tanks. You’ll need a very roomy tank to keep this fish. It’s a predator, therefore everything it can swallow will be eaten and it can eat quite a lot. General length of the fish reaches 1,8 m (5 ft 11 in) and it weighs 80 kg (180 lb). In tanks the fish tends to grow significantly smaller, but still its size is from 50 cm (20 inches) and to 100 cm (40 inches). The fish lifespan is over 15 years.",
+    "poster" : "fish_poster_5.jpg",
+    "fish_image" : "star_wars_episode_5_hero.jpg"
+  },
+
+  {
+    "title" : "Aquarium Monster Fish : Marble Catfish",
+    "episode_number" : "6",
+    "main_characters" : ["Luke Skywalker", "Han Solo", "Princess Leia Organa", "Darth Vader", "C-3P0", "Chewbacca", "The Emperor", "Boba Fett"],
+    "description" : "Darth Vader and the Empire are building a new, indestructible Death Star. Meanwhile, Han Solo has been imprisoned, and Luke Skywalker has sent R2-D2 and C-3PO to try and free him. Princess Leia - disguised as a bounty hunter - and Chewbacca go along as well. The final battle takes place on the moon of Endor, with its natural inhabitants, the Ewoks, lending a hand to the Rebels. Will Darth Vader and the Dark Side overcome the Rebels and take over the universe?",
+    "poster" : "fish_poster_6.jpg",
+    "fish_image" : "fish_cover_6.jpg"
+  }]
+
+}
